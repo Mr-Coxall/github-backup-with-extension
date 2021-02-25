@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="9l,PR{1Thnm-H4FC1_oz">myTurtle</variable><variable type="KIND_SpriteKind" id="$ye`WRh]~=ln4[Kug|lh">Player</variable><variable type="KIND_SpriteKind" id="2s@l,4n%vS2]b]5NErR}">Projectile</variable><variable type="KIND_SpriteKind" id="U+R[3oQMRDRqY+fERGF+">Food</variable><variable type="KIND_SpriteKind" id="D-jg,ar5J}|S]4f#o2b1">Enemy</variable></variables><block type="pxt-on-start" id="?H]aeL?Bq[W{{opwjumO" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="sb+RC^8C`;@2!4NmgcVI"><field name="VAR" id="9l,PR{1Thnm-H4FC1_oz">myTurtle</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="turtleFromSprite" id="|uO$VP(1qc:+8~JX2FTn"><value name="sprite"><shadow type="spritescreate" id="vmx_#j((;}JQ15t%Qy}3"><value name="img"><shadow type="screen_image_picker" id="y9TB1#/A;luUD;B!wGif"><field name="img">img`
+. . . . c c c b b b b b . . . . 
+. . c c b 4 4 4 4 4 4 b b b . . 
+. c c 4 4 4 4 4 5 4 4 4 4 b c . 
+. e 4 4 4 4 4 4 4 4 4 5 4 4 e . 
+e b 4 5 4 4 5 4 4 4 4 4 4 4 b c 
+e b 4 4 4 4 4 4 4 4 4 4 5 4 4 e 
+e b b 4 4 4 4 4 4 4 4 4 4 4 b e 
+. e b 4 4 4 4 4 5 4 4 4 4 b e . 
+8 7 e e b 4 4 4 4 4 4 b e e 6 8 
+8 7 2 e e e e e e e e e e 2 7 8 
+e 6 6 2 2 2 2 2 2 2 2 2 2 6 c e 
+e c 6 7 6 6 7 7 7 6 6 7 6 c c e 
+e b e 8 8 c c 8 8 c c c 8 e b e 
+e e b e c c e e e e e c e b e e 
+. e e b b 4 4 4 4 4 4 4 4 e e . 
+. . . c c c c c e e e e e . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image2"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="hnzQn|.0Xuo/AHj}mzg#"><field name="MEMBER">Player</field></shadow></value></shadow></value></block></value></block></statement></block></xml>
