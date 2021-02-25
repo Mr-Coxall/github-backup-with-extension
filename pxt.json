@@ -1,5 +1,5 @@
 {
-    "name": "GitHUb backup with Extension",
+    "name": "GitHub backup with Extension",
     "description": "",
     "dependencies": {
         "device": "*",
